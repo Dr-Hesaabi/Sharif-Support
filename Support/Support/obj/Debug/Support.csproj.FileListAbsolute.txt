@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Support.dll
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Support.pdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.Abstractions.dll
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.dll
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.pdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.xml
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.Abstractions.pdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Plugin.Share.Abstractions.xml
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\obj\Debug\Support.dll
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\obj\Debug\Support.pdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\obj\Debug\Support.dll.mdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Support.dll.mdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\obj\Debug\Support.dll.mdb
+C:\Users\Admin\Desktop\Github\Sharif-Support\Support\Support\bin\Debug\Support.dll.mdb
